@@ -1,0 +1,3 @@
+Im Datensatz geht es um Asteroiden. Es hat jedem Asteroiden eine Id gegeben. Es hat den Vollen Namen, eine Partielle Differentialgleichung(pdes), einen Namen, einen Wert welcher ausgibt ob er nahe an der Erde ist oder nicht, einen Wert welcher angibt ob es eine potentielle gefahr füruns ist, ein Wert welcher den durchmesser angiebt und einer, welcher die absolute Helligkeit (magnitude) angiebt. 
+
+Die Daten findet man auf kaggle.com. Der Ersteller des Datensatzes ist ein Arstronomy & Astrophysics Researcher. Die Daten dieses Datensatzes stammen von Jet Propulsion Labratory of California Institute of Technology, eine Organisation unter der Leitung von NASA. Das Datenset ist verfügbar  auf der Webseite von ihnen.  
